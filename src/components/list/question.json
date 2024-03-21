@@ -1,0 +1,13 @@
+{
+  "collectionName": "components_list_questions",
+  "info": {
+    "displayName": "question",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "ans": {
+      "type": "blocks"
+    }
+  }
+}

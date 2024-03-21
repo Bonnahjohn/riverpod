@@ -1,0 +1,16 @@
+{
+  "collectionName": "components_seo_seo_information_s",
+  "info": {
+    "displayName": "SeoInformation ",
+    "icon": "volumeUp"
+  },
+  "options": {},
+  "attributes": {
+    "SeoTitle": {
+      "type": "string"
+    },
+    "SeoDescription": {
+      "type": "text"
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "kind": "collectionType",
+  "collectionName": "us",
+  "info": {
+    "singularName": "me",
+    "pluralName": "us",
+    "displayName": "me"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "god": {
+      "allowedTypes": [
+        "images",
+        "files",
+        "videos",
+        "audios"
+      ],
+      "type": "media",
+      "multiple": true
+    }
+  }
+}

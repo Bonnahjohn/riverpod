@@ -1,0 +1,31 @@
+{
+  "kind": "collectionType",
+  "collectionName": "frenches",
+  "info": {
+    "singularName": "french",
+    "pluralName": "frenches",
+    "displayName": "french",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "intro": {
+      "type": "text"
+    },
+    "body": {
+      "type": "text"
+    },
+    "hint": {
+      "type": "string"
+    },
+    "conclusion": {
+      "type": "text"
+    }
+  }
+}
